@@ -37,7 +37,7 @@ Welcome to my battleground! Competitive programming isn't just a hobby for me; i
 
 | Platform        | Handle/Rank      | Max Rating/Status | Profile Link                                            |
 |-----------------|------------------|-------------------|---------------------------------------------------------|
-| **Codeforces**  | `Temp_0955`      | `1639 (Expert)`   | [View Profile](https://codeforces.com/profile/Temp_0955) |
+| **Codeforces**  | `Sarvesh0955`      | `1630 (Expert)`   | [View Profile](https://codeforces.com/profile/Sarvesh0955) |
 | **CodeChef**    | `Sarvesh0955`    | `1931 (4 Star)`   | [View Profile](https://www.codechef.com/users/Sarvesh0955) |
 | **LeetCode**    | `sarvesh0955`    | `Knight (2068)`   | [View Profile](https://leetcode.com/sarvesh0955/)       |
 

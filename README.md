@@ -94,7 +94,7 @@ Welcome to my battleground! Competitive programming isn't just a hobby for me; i
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarvesh0955@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sarvesh-kumar](https://www.linkedin.com/in/sarvesh-kumar-27380527b))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-kumar-27380527b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarvesh0955)
 
 **📧 sarvesh0955@gmail.com** | **🎓 iit2023101@iiita.ac.in** 

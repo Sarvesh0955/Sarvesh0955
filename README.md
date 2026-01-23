@@ -14,16 +14,14 @@
 
 ## ✨ About Me
 
-Hello there! I'm Sarvesh Kumar, a B.Tech Information Technology student at the prestigious Indian Institute of Information Technology (IIIT), Allahabad. My journey in tech is fueled by a dual passion: architecting robust **Full-Stack Applications** and conquering complex challenges in the thrilling arena of **Competitive Programming**.
+Hello there! I'm Sarvesh Kumar, a B.Tech Information Technology student at the prestigious Indian Institute of Information Technology, Allahabad. My journey in tech is fueled by a dual passion: architecting robust **Full-Stack Applications** and conquering complex challenges in the thrilling arena of **Competitive Programming**.
 
 ```javascript
 const sarveshProfile = {
   identity: "Sarvesh Kumar",
   institution: "IIIT Allahabad (B.Tech IT)",
   coreStrengths: ["Full-Stack Development", "Competitive Programming"],
-  currentEndeavor: "Teaching Assistant @ Codeplus (Mentoring 400+ students)",
-  philosophy: "Transforming complex problems into elegant solutions.",
-  aspirations: "To innovate, build, and inspire in the world of technology."
+  currentEndeavor: "Coordinator @Codeplus and @CC Wing GDG"
 };
 ```
 
@@ -37,9 +35,10 @@ Welcome to my battleground! Competitive programming isn't just a hobby for me; i
 
 | Platform        | Handle/Rank      | Max Rating/Status | Profile Link                                            |
 |-----------------|------------------|-------------------|---------------------------------------------------------|
-| **Codeforces**  | `Sarvesh0955`      | `1630 (Expert)`   | [View Profile](https://codeforces.com/profile/Sarvesh0955) |
+| **Codeforces**  | `Sarvesh0955`      | `1633 (Expert)`   | [View Profile](https://codeforces.com/profile/Sarvesh0955) |
 | **CodeChef**    | `Sarvesh0955`    | `1931 (4 Star)`   | [View Profile](https://www.codechef.com/users/Sarvesh0955) |
-| **LeetCode**    | `sarvesh0955`    | `Knight (2068)`   | [View Profile](https://leetcode.com/sarvesh0955/)       |
+| **LeetCode**    | `sarvesh0955`    | `2159 (Guardian)`   | [View Profile](https://leetcode.com/sarvesh0955/)       |
+| **Atcoder**    | `Sarvesh0955`    | `1036 (5 Kyu)`   | [View Profile](https://atcoder.jp/users/Sarvesh0955)       |
 
 </div>
 
@@ -75,17 +74,20 @@ Welcome to my battleground! Competitive programming isn't just a hobby for me; i
 
 ## 🔥 Featured Projects
 
+### 🛠️ [LeetParse - Browser Extension](https://github.com/Sarvesh0955/leetparse) · [Homepage](https://sarvesh0955.github.io/LeetParse/)
+> **Competitive Programmer's Essential Tool**
+- ⚡ **Instant Code Generation**: Convert LeetCode problems into IDE-ready templates
+- 🧪 **Test Case Extraction**: Pull inputs/outputs for quick local validation
+- 🧩 **CPH Ready**: Export seamlessly into VS Code with Competitive Programming Helper
+- 🚀 **Faster Practice**: Reduce setup time and focus on solving
+- 🛠️ **Local IDE Workflow**: Run and debug solutions without leaving your editor
+
 ### 🏆 [Prayatak - Maha Kumbh Meta 2025](https://github.com/Sarvesh0955/prayatak) [`LIVE`](https://prayatak-frontend.onrender.com/)
 > **Full-Stack Platform for Prayagraj Tourism**
 - 🔐 **Secure Authentication**: Express Sessions + MongoDB for seamless user management
 - 📝 **Dynamic Blog System**: CRUD operations managing 100+ posts with optimized performance  
 - 💻 **Modern Architecture**: MERN stack ensuring scalability and efficiency
 - 🎨 **Responsive Design**: Optimized user experience across all devices
-
-### 🛠️ [LeetParse - Browser Extension](https://github.com/Sarvesh0955/leetparse)
-> **Competitive Programmer's Essential Tool**
-- ⚡ **Instant Code Generation**: Parse LeetCode problems → Generate IDE-ready templates
-- 🎯 **Enhanced Productivity**: Streamlined workflow for competitive programming practice
 
 ---
 

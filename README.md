@@ -89,7 +89,7 @@ Welcome to my battleground! Competitive programming isn't just a hobby for me; i
 - 💻 **Modern Architecture**: MERN stack ensuring scalability and efficiency
 - 🎨 **Responsive Design**: Optimized user experience across all devices
 
-### 🏫 [Smart-University-File-Management-System](https://github.com/Sarvesh0955/Smart-University-File-Managment-System)
+### 🏫 [Smart-University-File-Managment-System](https://github.com/Sarvesh0955/Smart-University-File-Managment-System)
 > **University File Management Project**
 
 ---

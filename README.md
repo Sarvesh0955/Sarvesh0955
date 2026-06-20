@@ -91,6 +91,10 @@ Welcome to my battleground! Competitive programming isn't just a hobby for me; i
 
 ### 🏫 [Smart-University-File-Managment-System](https://github.com/Sarvesh0955/Smart-University-File-Managment-System)
 > **University File Management Project**
+- 📁 **Centralized File Handling**: Organize and manage academic files in one place
+- 🔐 **Role-Based Access**: Separate access controls for admin, faculty, and students
+- ⚡ **Efficient Workflow**: Simplify file upload, tracking, and retrieval
+- 🏛️ **Campus-Focused Utility**: Built to streamline university document processes
 
 ---
 
